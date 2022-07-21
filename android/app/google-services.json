@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "112694300547",
+    "firebase_url": "https://flutteriot-1b30d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutteriot-1b30d",
+    "storage_bucket": "flutteriot-1b30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112694300547:android:d6d46cdbf20716f422f0b6",
+        "android_client_info": {
+          "package_name": "com.example.iot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112694300547-tkqcmmvc9inmukonl9f0f4dnpkji0tf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzsRC_0yyaLJvOJ4UdM4bfY2tITsRdbTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112694300547-tkqcmmvc9inmukonl9f0f4dnpkji0tf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112694300547:android:4fe7ab192e81557322f0b6",
+        "android_client_info": {
+          "package_name": "com.example.smartquadro_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112694300547-tkqcmmvc9inmukonl9f0f4dnpkji0tf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzsRC_0yyaLJvOJ4UdM4bfY2tITsRdbTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112694300547-tkqcmmvc9inmukonl9f0f4dnpkji0tf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
