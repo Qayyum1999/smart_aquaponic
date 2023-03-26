@@ -1,16 +1,17 @@
-# smart_aquaponic
+# SmartQuaDro | Smart Aquaponic and Hydroponice System Monitoring App
 
-A new Flutter project.
+![Screenshot 2023-03-22 020306](https://user-images.githubusercontent.com/90374083/227809817-cd9c76da-c675-4e68-bbd5-aac871ae8f35.jpg)
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+A full-stack IoT web app using Flutter and Arduino to monitor water quality parameters and send push notifications based on sensor data.
 
-A few resources to get you started if this is your first Flutter project:
+![1658896630536](https://user-images.githubusercontent.com/90374083/227809834-2b58795d-f5e0-4bf7-aab0-157b7ae8c6fd.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Firebase
+- Flutter
+- Arduino Nano
+- NodeMCU
+- pH sensor, humidity sensor, ultrasonic sensor
